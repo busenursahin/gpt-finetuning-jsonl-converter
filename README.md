@@ -12,3 +12,4 @@ This project helps convert `prompt completion pair` formatted .jsonl files to `c
 2. **Conversion:** This tool converts the file to a conversational chat format compatible with other fine-tune models.
 3. **Output:** You can use the generated `.jsonl` file to initiate new fine-tuning jobs.
 
+![Görsel Açıklaması](convert.png)
